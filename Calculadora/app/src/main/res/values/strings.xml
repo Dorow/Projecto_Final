@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="action_settings">Settings</string>
+    <string name="text1">Num 1</string>
+    <string name="text2">Num 2</string>
+    <string name="butmas">+</string>
+    <string name="butmenos">-</string>
+    <string name="butpor">*</string>
+    <string name="butdiv">/</string>
+    <string name="butcambar">Cambiar</string>
+</resources>
+
